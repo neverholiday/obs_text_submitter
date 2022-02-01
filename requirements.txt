@@ -1,0 +1,2 @@
+simpleobsws==0.0.7
+websockets==10.1
